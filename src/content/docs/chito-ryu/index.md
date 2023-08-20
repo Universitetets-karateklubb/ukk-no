@@ -1,6 +1,6 @@
 ---
-title: Stilarten Chito ryu
-description: Om stilarten Chito ryu.
+title: Stilarten Chito-ryu
+description: Om stilarten Chito-ryu.
 ---
 
 Universitetets karateklubb (UKK) trener den tradisjonelle karatestilarten Chito-ryu. I Chito-ryu trenes et bredt spekter av teknikker for effektivt selvforsvar, fysisk forstring og styrke av mental konsentrasjon og utholdenhet.
