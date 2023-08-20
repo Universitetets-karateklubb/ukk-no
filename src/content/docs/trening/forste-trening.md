@@ -11,7 +11,7 @@ Fra høsten 2023 innfører vi et nytt konsept på nybegynnerpartiene: Høyintens
 I høstsemesteret starter nybegynnerpartiene i uke 34, mandag 21/8 er første trening.
 Vi har opptak av nybegynnere i august og september. Ta gjerne kontakt på epost for mer informasjon (styret.ukk@gmail.com) eller still på et av nybegynnerpartiene våre i lett treningstøy. De første tre treningene er gratis.
 
-**Treningstider** finner du [her](/trening/treningstider).
+**Treningstider** finner du [her](treningstider).
 
 ## Medlemskap i Universitetets karateklubb
 
